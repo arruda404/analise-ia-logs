@@ -1,6 +1,6 @@
 
 ## Visão Geral do Projeto
-Esse Porjeto e originario do projeto do Carlos silva cujo os videos estão nesse projeto 
+Esse Projeto e originario do projeto do Carlos silva cujo os videos estão linkados.
 
 Modificações do projeto original
 
